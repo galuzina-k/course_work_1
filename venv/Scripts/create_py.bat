@@ -1,0 +1,1 @@
+pyuic5.exe -x C:\Users\Артем\PycharmProjects\CW\test.ui -o C:\Users\Артем\PycharmProjects\CW\test.py
